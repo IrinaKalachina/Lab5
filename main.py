@@ -1,3 +1,11 @@
+def input_matrix():
+    pass
+
+def generate_matrix():
+    pass
+def find_saddle_points(matrix):
+    pass
+
 def main():
     while True:
         print("\nМеню:")
